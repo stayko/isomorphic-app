@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home - Snapshot Matches Snapshot 1`] = `
+Array [
+  <h1>
+    Top 20 Stack Overflow Users
+  </h1>,
+  <ul
+    className="user-list"
+  >
+    <li>
+      <a
+        className="user card"
+        href="/user/1"
+        onClick={[Function]}
+      >
+        <div
+          className="user__avatar"
+        >
+          <img
+            className="user__avatar-image"
+            src="https://www.gravatar.com/avatar/6d8ebb117e8d83d74ea95fbdd0f87e13?s=128&d=identicon&r=PG"
+          />
+        </div>
+        <div
+          className="user__details"
+        >
+          <div>
+            <strong>
+              Name: 
+            </strong>
+            <span
+              className="user__name"
+            >
+              User 1
+            </span>
+          </div>
+          <div>
+            <strong>
+              Reputation: 
+            </strong>
+            <span
+              className="user__reputation"
+            >
+              129192
+            </span>
+          </div>
+        </div>
+      </a>
+    </li>
+    <li>
+      <a
+        className="user card"
+        href="/user/2"
+        onClick={[Function]}
+      >
+        <div
+          className="user__avatar"
+        >
+          <img
+            className="user__avatar-image"
+            src="https://www.gravatar.com/avatar/6d8ebb117e8d83d74ea95fbdd0f87e13?s=128&d=identicon&r=PG"
+          />
+        </div>
+        <div
+          className="user__details"
+        >
+          <div>
+            <strong>
+              Name: 
+            </strong>
+            <span
+              className="user__name"
+            >
+              User 2
+            </span>
+          </div>
+          <div>
+            <strong>
+              Reputation: 
+            </strong>
+            <span
+              className="user__reputation"
+            >
+              109034
+            </span>
+          </div>
+        </div>
+      </a>
+    </li>
+  </ul>,
+]
+`;
